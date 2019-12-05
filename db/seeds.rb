@@ -12,5 +12,5 @@ Product.create!(title: 'Programming Ruby 1.9 & 2.0',
  out there. If you need to get working programs delivered fast,
  you should add Ruby to your toolbox.
  </p>},
- image_url: 'https://media.proglib.io/wp-uploads/2018/08/Ruby-Language-1024x576.png',
+ image_url: 'https://purepng.com/public/uploads/large/purepng.com-ruby-stone-gemrubyblood-redgemstonemineral-corundumgemsapphires-1701528980095gjkwg.png',
  price: 49.95)
