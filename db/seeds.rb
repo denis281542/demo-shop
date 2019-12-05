@@ -12,5 +12,5 @@ Product.create!(title: 'Programming Ruby 1.9 & 2.0',
  out there. If you need to get working programs delivered fast,
  you should add Ruby to your toolbox.
  </p>},
- image_url: 'https://purepng.com/public/uploads/large/purepng.com-ruby-stone-gemrubyblood-redgemstonemineral-corundumgemsapphires-1701528980095gjkwg.png',
+ image_url: 'http://nevseoboi.com.ua/uploads/posts/2011-03/1299190481_w54_www.nevseoboi.com.ua.jpg',
  price: 49.95)
